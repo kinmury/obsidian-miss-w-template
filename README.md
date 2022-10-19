@@ -1,2 +1,1 @@
-# obsidian-miss-w-template
-MISS W - Obsidian Vault Template
+<h1 align=center>M.I.S.S. - W.</h1>

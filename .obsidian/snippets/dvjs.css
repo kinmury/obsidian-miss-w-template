@@ -1,0 +1,48 @@
+.dvjs-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+.dvjs-container > span:first-of-type {
+  display: none;
+}
+.dvjs-container .dvjs-field {
+  position: relative;
+  border: 2px solid var(--background-modifier-border);
+  border-radius: 3px;
+  padding: 5px;
+  transition: transform 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+.dvjs-container .dvjs-field:hover {
+  transform: translate(3px, -2px);
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.dvjs-container .dvjs-field .header {
+  display: flex;
+}
+.dvjs-container .dvjs-field .header > span:first-of-type {
+  display: none;
+}
+.dvjs-container .dvjs-field .header .note {
+  flex: 3;
+  text-align: start;
+  overflow-x: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: 50%;
+}
+.dvjs-container .dvjs-field .header .time {
+  flex: 1;
+  text-align: end;
+}
+.dvjs-container .dvjs-field .header .time code {
+  margin-left: 5px;
+}
+.dvjs-container .dvjs-field .header .time > span:first-of-type {
+  display: none;
+}
+.dvjs-container .dvjs-field .tasks {
+  margin-top: 4px;
+  margin-bottom: 4px;
+  padding-left: 25px;
+}

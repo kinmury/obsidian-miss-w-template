@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "887ec903c2e23a29",
+    "type": "split",
+    "children": [
+      {
+        "id": "38fe65a11ff49e5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce78a33a61d8baa1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5192ffb83bae8007",
+    "type": "split",
+    "children": [
+      {
+        "id": "4182a37e8a1c24b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddbcf1ca43c33bba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d8b957c0b703867",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "hyper",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d4599be3deb4a84f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "3987268935920a15",
+    "type": "split",
+    "children": [
+      {
+        "id": "a17c31fb39f56280",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebf01bec0e31fd0b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a441c7f81970c150",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f3487dda2c19a678",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c030ae015d04c822",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "ce78a33a61d8baa1",
+  "lastOpenFiles": [
+    "README.md",
+    "Home.md",
+    "Workbench/Project 1/· Project 1 - Home.md",
+    "Workbench/Project 1/Inbox/Report Notes/Report Note - 2022-10-18 21'02''02'''.md",
+    "Workbench/Project 1/Project 1 - Issues.md",
+    "Inbox/· Notes/Untitled.md",
+    "Workbench/Project 2/Project 2 - Issues.md",
+    "Workbench/Project 2/Project-Box/im a moc.md",
+    "Workbench/Project 2/Inbox/Document Notes/Document Note - 2022-10-18 20'59''16'''.md",
+    "Workbench/Project 2/· Project 2 - Home.md"
+  ]
+}

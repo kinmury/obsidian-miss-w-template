@@ -1,0 +1,21 @@
+{
+  "livePreview": false,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Inbox/· Notes",
+  "attachmentFolderPath": "Sources/Attachements",
+  "showLineNumber": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-GB"
+  ],
+  "readableLineLength": true,
+  "showUnsupportedFiles": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 70
+  }
+}

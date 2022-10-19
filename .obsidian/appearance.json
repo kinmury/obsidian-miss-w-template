@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Ukiyo",
+  "enabledCssSnippets": [
+    "AIO_snippet",
+    "dvjs"
+  ],
+  "baseFontSize": 15,
+  "accentColor": ""
+}

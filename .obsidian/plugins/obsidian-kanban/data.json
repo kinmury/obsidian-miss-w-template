@@ -1,0 +1,7 @@
+{
+  "hide-card-count": true,
+  "hide-tags-in-title": true,
+  "date-display-format": "Do MMM YYYY",
+  "hide-date-in-title": true,
+  "date-picker-week-start": 1
+}
