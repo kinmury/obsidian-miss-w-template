@@ -54,18 +54,18 @@
   "editor:toggle-checklist-status": [
     {
       "modifiers": [
-        "Mod",
+        "Alt",
         "Shift"
       ],
-      "key": "Enter"
+      "key": "Backspace"
     }
   ],
   "editor:toggle-bullet-list": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
-      "key": "Enter"
+      "key": "Backspace"
     }
   ],
   "workspace:export-pdf": [

@@ -11,11 +11,28 @@
             "id": "748806461384b3a4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/· Notes/MISSW - Explanation.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ab1b66b1f095bb87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/· Notes/Inbox.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3987268935920a15",
@@ -81,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inbox/· Notes/Inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Inbox/· Notes/Inbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inbox/· Notes/Inbox.md"
+              }
             }
           }
         ]
@@ -128,17 +150,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "748806461384b3a4",
+  "active": "ab1b66b1f095bb87",
   "lastOpenFiles": [
+    "Sources/Templates/Default Report Note.md",
+    "Inbox/· Notes/Inbox.md",
+    "Inbox/· Notes/MISSW - Explanation.md",
+    "Inbox/· Notes/Management.md",
+    "README.md",
     "Inbox/· Notes/Untitled.md",
     "Workbench/Project 2/Project 2 - Issues.md",
     "Workbench/Project 2/· Project 2 - Home.md",
     "Workbench/Project 1/Project 1 - Issues.md",
-    "Workbench/Project 1/· Project 1 - Home.md",
-    "Sources/Templates/Create New Project.md",
-    "Sources/Templates/Default Issue Note.md",
-    "Sources/Templates/Default Document Note.md",
-    "Sources/Templates/Default Report Note.md",
-    "Workbench/Project 1/Inbox/Document Notes/Document Note - 2022-10-30 18'40''04'''.md"
+    "Workbench/Project 1/· Project 1 - Home.md"
   ]
 }
