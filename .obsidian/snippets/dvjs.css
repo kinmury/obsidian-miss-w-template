@@ -1,6 +1,20 @@
+.theme-dark {
+  --dvjs-status-tbd: #999999;
+  --dvjs-status-in-progress: #ada423;
+  --dvjs-status-review: #c98912;
+  --dvjs-status-done: #1e911e;
+}
+
+.theme-light {
+  --dvjs-status-tbd: #b4b4b4;
+  --dvjs-status-in-progress: #d1c51d;
+  --dvjs-status-review: #ecbf6a;
+  --dvjs-status-done: #89d889;
+}
+
 .dvjs-container {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   gap: 10px;
 }
 .dvjs-container > span:first-of-type {
@@ -16,6 +30,18 @@
 .dvjs-container .dvjs-field:hover {
   transform: translate(3px, -2px);
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.dvjs-container .dvjs-field.tbd {
+  border: 2px solid var(--dvjs-status-tbd);
+}
+.dvjs-container .dvjs-field.in-progress {
+  border: 2px solid var(--dvjs-status-in-progress);
+}
+.dvjs-container .dvjs-field.review {
+  border: 2px solid var(--dvjs-status-review);
+}
+.dvjs-container .dvjs-field.done {
+  border: 2px solid var(--dvjs-status-done);
 }
 .dvjs-container .dvjs-field .header {
   display: flex;

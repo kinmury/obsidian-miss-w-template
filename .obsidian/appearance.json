@@ -1,9 +1,11 @@
 {
   "cssTheme": "Ukiyo",
   "enabledCssSnippets": [
-    "AIO_snippet",
-    "dvjs"
+    "tbd",
+    "dvjs",
+    "home-page"
   ],
   "baseFontSize": 15,
-  "accentColor": ""
+  "accentColor": "",
+  "theme": "obsidian"
 }

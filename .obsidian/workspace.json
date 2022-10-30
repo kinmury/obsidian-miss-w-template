@@ -8,10 +8,10 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ce78a33a61d8baa1",
+            "id": "748806461384b3a4",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3987268935920a15",
@@ -129,20 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "ce78a33a61d8baa1",
+  "active": "748806461384b3a4",
   "lastOpenFiles": [
-    "README.md",
-    "Home.md",
-    "Workbench/Project 1/· Project 1 - Home.md",
-    "Workbench/Project 1/Inbox/Report Notes/Report Note - 2022-10-18 21'02''02'''.md",
-    "Workbench/Project 1/Project 1 - Issues.md",
     "Inbox/· Notes/Untitled.md",
     "Workbench/Project 2/Project 2 - Issues.md",
-    "Workbench/Project 2/Project-Box/im a moc.md",
-    "Workbench/Project 2/Inbox/Document Notes/Document Note - 2022-10-18 20'59''16'''.md",
-    "Workbench/Project 2/· Project 2 - Home.md"
+    "Workbench/Project 2/· Project 2 - Home.md",
+    "Workbench/Project 1/Project 1 - Issues.md",
+    "Workbench/Project 1/· Project 1 - Home.md",
+    "Sources/Templates/Create New Project.md",
+    "Sources/Templates/Default Issue Note.md",
+    "Sources/Templates/Default Document Note.md",
+    "Sources/Templates/Default Report Note.md",
+    "Workbench/Project 1/Inbox/Document Notes/Document Note - 2022-10-30 18'40''04'''.md"
   ]
 }
