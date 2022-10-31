@@ -6,9 +6,9 @@ tags: ["miss-w"]
 
 This folders serves the purpose to ==manager== all the **main tasks** that you need to do throughout a period of time (or not, maybe you'll still be doing `X` tasks indefensibly).
 
-There are a lot of ways to manager all this tasks: using a Calendar plugin, [[Kanban|Kanabn plugin]], Task plugin, [[Datview|Dataview plugin]], not using a single plugin and just using the notes as they present themselves, maybe a mix of them or you maybe don't even need Obsidian to manage said tasks (or you already have a system that serves this purpose outside Obsidian, in which case I would think twice before moving out of said system if you aren't yet comfortable using Obsidian).
+There are a lot of ways to manager all this tasks: using a Calendar plugin, [[Kanban|Kanabn plugin]], Task plugin, [[Dataview|Dataview plugin]], not using a single plugin and just using the notes as they present themselves, maybe a mix of them or you maybe don't even need Obsidian to manage said tasks (or you already have a system that serves this purpose outside Obsidian, in which case I would think twice before moving out of said system if you aren't yet comfortable using Obsidian).
 
-In the case of this vault, we will use a combination of different methods whenever it's needed. In this particular case (folder), we'll only use the [[Kanban|Kanabn plugin]].
+In the case of this vault, we will use a combination of different methods whenever it's needed. In this particular case (folder), we'll only use the [[Kanban|Kanban plugin]].
 
 For those who doesn't know what a [[Kanban]] is, it's a set of vertical set of lists where you place a bunch of "notes" with the task/information about the task that it needs to be done. Each vertical lists represents a relevant information about the notes that it contains and, more often than note, it represent the stage at which the tasks at hand had reach at the time you are looking at it.
 

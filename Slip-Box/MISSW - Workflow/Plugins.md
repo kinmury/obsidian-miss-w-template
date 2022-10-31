@@ -17,7 +17,7 @@ If you go to the settings, either clicking over the `Settings Icon` on the botto
 
 I recommend you to go through every setting, not to memorise it, but to know what you can change and adapt to your liking. If you are new to Obsidian, I would suggest to not change any settings if you installed this template. Instead, create a new **empty vault** and experiment with it, break everything if needed. The configuration that you have on one vault doesn't affect on a preview or new one, since the settings are *not* sync between vaults.
 
-> [!tip]- Save Configuration between Vaults
+> [!tip]- Save configuration between vaults
 > If you want to keep a certain configuration that you made on one vault, with all the themes and plugins that you have installed, simply go to the original vault (where those settings are) and copy the hole `.obdisian` folder. This folder contains everything that is needed to configure the vault. 
 
 Inside the **Core Plugins** you'll only see the ones that are activated (the ones that I use and choose to remain active on the template). If you want to see all the core plugins available and turn them on, go to: `Settings > Options > Core Plugins`. There you'll see the list with all the core plugins that are implemented in the Obsidian version that's installed^[Over time, the developers will like add more and more core plugins if they see it fit, but you'll see if they add anything new on the `Release Note` every time you update your Local Obsidian Version].
@@ -48,3 +48,8 @@ Moving out of the memes, let's dive in into the community plugins installed in t
 - [[TikZJax]]
 - [[Typewritter Scroll]]
 - [[Zotero Integration]]
+
+> [!tip] Recommendation
+> The explanation that I give to every single one of this plugin is a summary of the full potential of each plugin. 
+> 
+> I highly recommend you to visit each one of their GitHub repositories in order to find their respective documentation an learn more about how to properly use them and to understand how they work at their fullest.

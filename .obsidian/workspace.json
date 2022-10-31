@@ -18,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "1b3dd11e86dcf814",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Slip-Box/MISSW - Workflow/Backlinks.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slip-Box/MISSW - Workflow/Backlinks.md",
+                "file": "Slip-Box/MISSW - Workflow/MISSW - Explanation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slip-Box/MISSW - Workflow/Backlinks.md",
+                "file": "Slip-Box/MISSW - Workflow/MISSW - Explanation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slip-Box/MISSW - Workflow/Backlinks.md"
+                "file": "Slip-Box/MISSW - Workflow/MISSW - Explanation.md"
               }
             }
           }
@@ -141,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ddbcf1ca43c33bba",
+  "active": "af6342180c9abf09",
   "lastOpenFiles": [
-    "Slip-Box/MISSW - Workflow/Quick Switcher.md",
-    "Slip-Box/MISSW - Workflow/Backlinks.md",
-    "Slip-Box/MISSW - Workflow/Plugins.md",
     "Slip-Box/MISSW - Workflow/MISSW - Explanation.md",
-    "Slip-Box/MISSW - Workflow/Page Preview.md",
-    "Slip-Box/MISSW - Workflow/File Recovery.md",
-    "Slip-Box/MISSW - Workflow/Command Palette.md",
-    "Inbox/· Notes/Untitled.md",
-    "README.md",
-    "Home.md"
+    "Slip-Box/MISSW - Workflow/Advanced New File.md",
+    "Slip-Box/MISSW - Workflow/Plugins.md",
+    "Slip-Box/MISSW - Workflow/Zotero Integration.md",
+    "Slip-Box/MISSW - Workflow/TikZJax.md",
+    "Slip-Box/MISSW - Workflow/Templater.md",
+    "Slip-Box/MISSW - Workflow/Style Settings.md",
+    "Slip-Box/MISSW - Workflow/Obsidian42 - BRAT.md",
+    "Slip-Box/MISSW - Workflow/Kanban.md",
+    "Slip-Box/MISSW - Workflow/Management.md"
   ]
 }
