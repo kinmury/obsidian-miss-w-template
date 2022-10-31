@@ -6,7 +6,7 @@ tags: ["miss-w"]
 
 This is the second most powerful plugin of this vault. 
 
-> Not only you can apply a template to a new or already created note, but also lets you execute code while you apply said template.
+> Not only you can apply a template to a new or already created note, but also lets you execute code while you're aplling said template.
 
 Thanks to this plugin, not only we can stop writing manually all the repetitive stuff (yup... a template) but also can execute code that changes stuff about the files, like their names.
 

@@ -1,5 +1,5 @@
 ---
-tags: ["miss-w"]
+tags: ["miss-w", "moc"]
 ---
 
 # M.I.S.S. - W. - Explanation

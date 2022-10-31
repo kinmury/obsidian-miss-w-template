@@ -58,7 +58,9 @@ If you don't get the idea, try it with this vault documentation. Now that you ar
 
 ---
 
-But maybe this way of seeing things are too graphic for your liking, and you maybe just want to see a list of files which connects to your note. The `[[links]]` connect 2 notes, but in one way. Let us work with the following example:
+But maybe this way of seeing things are too graphic for your liking, and you maybe just want to see a list of files which connects to your notes. 
+
+The `[[links]]` connect 2 notes, but in one way. Let us work with the following example:
 
 ```mermaid
 graph LR
@@ -75,7 +77,7 @@ graph LR
 
 Bare in mind that Obsidian doesn't render on any of their graphs a link for every direction/way of the connections, but adds an arrow to every edge of said connection, symbolising the direction/way of that connection. If the connection only goes one way, that means only one arrow, but if it goes both ways, that means 2 arrow on both ends in the same connection.
 
-Now, why does this matter? Well, Obsidian can list you 2 types of links: **Backlinks** and **Outgoing links**. You can see both of this type of link on the right panel (`CTRL+A`), and first 2 icons that appear on the top left side of the panel, next to the minimise, maximise and close buttons.
+Now, why does this matter? Well, Obsidian can list you 2 types of links: **Backlinks** and **Outgoing links**. You can see both of this type of links on the right panel (`CTRL+A`), clicking one of the first 2 icons that appear on the top left side of the panel, next to the minimise, maximise and close buttons.
 
 - **Backlinks** - Shows you a list of all notes that have links that point to the actual note that you are editing/reading.
 - **Outgoing links** - Shows you a list of all the notes that your actual note is linking to.

@@ -15,12 +15,12 @@ If you go to the settings, either clicking over the `Settings Icon` on the botto
 - **Core Plugins** - The specific settings for each core plugin that is activated
 - **Community Plugins** - The specific settings for each community plugin that is installed
 
-I recommend you to go through every setting, not to memorise it, but to know what you can change and adapt to your liking. If you are new to Obsidian, I would suggest to not change any settings if you installed this template. Instead, create a new **empty vault** and experiment with it, break everything if needed. The configuration that you have on one vault doesn't affect on a preview or new one, since the settings are *not* sync between vaults.
+I recommend you to go through every setting, not to memorize it, but to know what you can change and adapt to your liking. If you are new to Obsidian, I would suggest to not change any settings if you installed this template vault. Instead, create a new **empty vault** and experiment with it, break everything if needed. The configuration that you have on one vault doesn't affect on a previous or new one, since the settings are *not* synced between vaults.
 
 > [!tip]- Save configuration between vaults
-> If you want to keep a certain configuration that you made on one vault, with all the themes and plugins that you have installed, simply go to the original vault (where those settings are) and copy the hole `.obdisian` folder. This folder contains everything that is needed to configure the vault. 
+> If you want to keep a certain configuration that you made on one vault, with all the themes and plugins that you have installed, simply go to the original vault (where those settings are) and copy the hole `.obdisian` folder and paste it inside the new vault (hit the `Replace` is asked). This folder contains everything that is needed to configure the vault. 
 
-Inside the **Core Plugins** you'll only see the ones that are activated (the ones that I use and choose to remain active on the template). If you want to see all the core plugins available and turn them on, go to: `Settings > Options > Core Plugins`. There you'll see the list with all the core plugins that are implemented in the Obsidian version that's installed^[Over time, the developers will like add more and more core plugins if they see it fit, but you'll see if they add anything new on the `Release Note` every time you update your Local Obsidian Version].
+Inside the **Core Plugins** you'll only see the ones that are activated (the ones that I use and choose to remain active on the vault template). If you want to see and use all the core plugins available, go to: `Settings > Options > Core Plugins`. There you'll see the list with all the core plugins that are implemented in the Obsidian version that's installed^[Over time, the developers will likely add more core plugins if they see it fit, but you'll see if they have added anything new on the `Release Note` every time you update your Local Obsidian Version].
 
 Here is the explanation for each **core plugin**:
 - [[Backlinks]]
@@ -29,7 +29,7 @@ Here is the explanation for each **core plugin**:
 - [[Page Preview]]
 - [[Quick Switcher]]
 
-Once again, these are the core plugins that **I** use and recommend other to use as well, this doesn't mean that you must use them all, or don't use the other plugins that aren't turned on. Eventually you'll find your own set of tool that better suit your needs. And for that, you need to *experiment* and *break things* more times that you think.
+Once again, these are the core plugins that **I** use and recommend others to use as well, this doesn't mean that you must use them all, or don't use the other plugins that aren't turned on. Eventually you'll find your own set of tool that better suit your needs. And for that, you need to *experiment* and *break things* more times that you think.
 
 ## Community Plugins
 

@@ -4,7 +4,7 @@ tags: ["miss-w"]
 
 # Dataview
 
-> This is the most **powerful** tool this vault have, it transforms your files and the data it stores to a *data base* that you can access and read its information within any note on the vault
+> This is the most **powerful** tool this vault have, it transforms your files and the data it stores to a *database* that you can access and read its information within any note on the vault
 
 There is "kinda a debate" over if users should use it or not, since it "breaks the point" of using **links** in the first place. I understand the point of both sides of the fight:
 - You could stop using `MOC`s and use **Dataview Queries** instead, making your job a little easier.
@@ -16,9 +16,9 @@ There is "kinda a debate" over if users should use it or not, since it "breaks t
 	- Yeah, it's true that it's more future proof (since we have and enormous amount of history documentation on paper (or walls, depending on how far we go back in time)), but at this point and age, seeing how things are evolving to go more digital than ever, I kinda doubt that we get to a point where we don't have access to technology at all or a way to go back to a previous version of a software (something that Obsidian provides by the way).
 		- `P.S.` - Paper can also be liability in a number of ways (storage, the danger of begin torn off, burned or soaked wet, ...)
 
-As you can probably see, this debate goes even deeper than the use of this plugin, so well stop here. 
+As you can probably see, this debate goes even deeper than the use of this plugin, so we'll stop here. 
 
-My approach isn't one sided, but I try to use the best of both worlds: Dataview and Links. The only use that I personally give Dataview (in my Vault and this template) is just to create a workflow for my tasks system and not so much as to organise my notes (for that we use `MOC`s or link to notes directly).
+My approach isn't one sided, but I try to use the best of both worlds: Dataview and Links. The only use that I personally give Dataview (in my personal vault and this template vault) is just to create a workflow for my tasks system and not so much as to organize my notes (for that we use `MOC`s or link to notes directly).
 
 Now back to the documentation, Dataview uses `SQL` syntax to query notes, here is an example:
 
@@ -32,6 +32,6 @@ As you can see, its displaying a `TABLE` with the name, creation time and tags t
 
 This is the simplest way you can use Dataview, by using `SQL` Queries (from now on **Dataview Queries**). But if you know how to program code, you can use Dataview alongside `JavaScript` and do really interesting stuff (like the `issues-table-like-kanban` that I've added to this vault in [[Issues]]).
 
-There are a lot of things that can be done with this plugin, and I cannot explain all to you, no only because is not the point of this documentation, but also because it's already been explain much better by the creators of said plugin. Just search for their repository, there you'll find the **Full Documentation** on how to use it.
+There are a lot of things that can be done with this plugin, and I cannot explain it all to you, not only because is not the point of this documentation, but also because it's already been explain much better by the creators of said plugin. Just search for their repository on GitHub, there you'll find the **Full Documentation** on how to use it.
 
 And also not everyone may know how to use `SQL` or `JavaScript`, so... if you are new to this, just stick with `SQL` for now and when you know how Dataview works, you can move on using `JavaScript` (alongside your own `CSS` snippets).

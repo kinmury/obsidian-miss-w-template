@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Slip-Box/MISSW - Workflow/MISSW - Explanation.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "data base",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slip-Box/MISSW - Workflow/MISSW - Explanation.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slip-Box/MISSW - Workflow/MISSW - Explanation.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slip-Box/MISSW - Workflow/MISSW - Explanation.md"
+                "file": "README.md"
               }
             }
           }
@@ -132,14 +132,14 @@
   "active": "257751f5d4838339",
   "lastOpenFiles": [
     "Slip-Box/MISSW - Workflow/External Tools.md",
+    "README.md",
+    "Slip-Box/MISSW - Workflow/MISSW - Explanation.md",
     "Slip-Box/MISSW - Workflow/Plugins.md",
     "Slip-Box/MISSW - Workflow/Zotero Integration.md",
-    "Slip-Box/MISSW - Workflow/MISSW - Explanation.md",
     "Slip-Box/MISSW - Workflow/Typewritter Scroll.md",
     "Slip-Box/MISSW - Workflow/TikZJax.md",
-    "Slip-Box/MISSW - Workflow/Obsidian42 - BRAT.md",
     "Slip-Box/MISSW - Workflow/Templater.md",
-    "Slip-Box/MISSW - Workflow/Dataview.md",
-    "Slip-Box/MISSW - Workflow/Style Settings.md"
+    "Slip-Box/MISSW - Workflow/Style Settings.md",
+    "Slip-Box/MISSW - Workflow/Obsidian42 - BRAT.md"
   ]
 }
