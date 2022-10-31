@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cab31234628d78a6",
+        "id": "cbe5270e7026ea25",
         "type": "tabs",
         "children": [
           {
-            "id": "af6342180c9abf09",
+            "id": "257751f5d4838339",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hyper",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3987268935920a15",
@@ -128,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "af6342180c9abf09",
+  "active": "257751f5d4838339",
   "lastOpenFiles": [
-    "Slip-Box/MISSW - Workflow/MISSW - Explanation.md",
-    "Slip-Box/MISSW - Workflow/Advanced New File.md",
+    "Slip-Box/MISSW - Workflow/External Tools.md",
     "Slip-Box/MISSW - Workflow/Plugins.md",
     "Slip-Box/MISSW - Workflow/Zotero Integration.md",
+    "Slip-Box/MISSW - Workflow/MISSW - Explanation.md",
+    "Slip-Box/MISSW - Workflow/Typewritter Scroll.md",
     "Slip-Box/MISSW - Workflow/TikZJax.md",
-    "Slip-Box/MISSW - Workflow/Templater.md",
-    "Slip-Box/MISSW - Workflow/Style Settings.md",
     "Slip-Box/MISSW - Workflow/Obsidian42 - BRAT.md",
-    "Slip-Box/MISSW - Workflow/Kanban.md",
-    "Slip-Box/MISSW - Workflow/Management.md"
+    "Slip-Box/MISSW - Workflow/Templater.md",
+    "Slip-Box/MISSW - Workflow/Dataview.md",
+    "Slip-Box/MISSW - Workflow/Style Settings.md"
   ]
 }
