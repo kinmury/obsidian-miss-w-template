@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "38fe65a11ff49e5f",
+        "id": "cab31234628d78a6",
         "type": "tabs",
         "children": [
           {
-            "id": "748806461384b3a4",
+            "id": "af6342180c9abf09",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "1b3dd11e86dcf814",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slip-Box/MISSW - Workflow/Backlinks.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,21 +69,12 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "d4599be3deb4a84f",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3987268935920a15",
@@ -86,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slip-Box/MISSW - Workflow/MISSW - Explanation.md",
+                "file": "Slip-Box/MISSW - Workflow/Backlinks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slip-Box/MISSW - Workflow/MISSW - Explanation.md",
+                "file": "Slip-Box/MISSW - Workflow/Backlinks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slip-Box/MISSW - Workflow/MISSW - Explanation.md"
+                "file": "Slip-Box/MISSW - Workflow/Backlinks.md"
               }
             }
           }
@@ -137,17 +141,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "748806461384b3a4",
+  "active": "ddbcf1ca43c33bba",
   "lastOpenFiles": [
-    "README.md",
-    "Home.md",
-    "Slip-Box/MISSW - Workflow/Inbox.md",
-    "Slip-Box/MISSW - Workflow/Workbench.md",
+    "Slip-Box/MISSW - Workflow/Quick Switcher.md",
+    "Slip-Box/MISSW - Workflow/Backlinks.md",
+    "Slip-Box/MISSW - Workflow/Plugins.md",
     "Slip-Box/MISSW - Workflow/MISSW - Explanation.md",
-    "Slip-Box/MISSW - Workflow/Management.md",
-    "Issues.md",
-    "Workbench/Project 1/Project 1 - Issues.md",
-    "Workbench/Project 1/· Project 1 - Home.md",
-    "Sources/Templates/Default Issue Note.md"
+    "Slip-Box/MISSW - Workflow/Page Preview.md",
+    "Slip-Box/MISSW - Workflow/File Recovery.md",
+    "Slip-Box/MISSW - Workflow/Command Palette.md",
+    "Inbox/· Notes/Untitled.md",
+    "README.md",
+    "Home.md"
   ]
 }
