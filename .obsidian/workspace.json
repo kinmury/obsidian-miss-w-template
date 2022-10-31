@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/· Notes/MISSW - Explanation.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ab1b66b1f095bb87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/· Notes/Inbox.md",
-                "mode": "source",
+                "file": "Slip-Box/MISSW - Workflow/MISSW - Explanation.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/· Notes/Inbox.md",
+                "file": "Slip-Box/MISSW - Workflow/MISSW - Explanation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/· Notes/Inbox.md",
+                "file": "Slip-Box/MISSW - Workflow/MISSW - Explanation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/· Notes/Inbox.md"
+                "file": "Slip-Box/MISSW - Workflow/MISSW - Explanation.md"
               }
             }
           }
@@ -150,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ab1b66b1f095bb87",
+  "active": "748806461384b3a4",
   "lastOpenFiles": [
-    "Sources/Templates/Default Report Note.md",
-    "Inbox/· Notes/Inbox.md",
-    "Inbox/· Notes/MISSW - Explanation.md",
-    "Inbox/· Notes/Management.md",
     "README.md",
-    "Inbox/· Notes/Untitled.md",
-    "Workbench/Project 2/Project 2 - Issues.md",
-    "Workbench/Project 2/· Project 2 - Home.md",
+    "Home.md",
+    "Slip-Box/MISSW - Workflow/Inbox.md",
+    "Slip-Box/MISSW - Workflow/Workbench.md",
+    "Slip-Box/MISSW - Workflow/MISSW - Explanation.md",
+    "Slip-Box/MISSW - Workflow/Management.md",
+    "Issues.md",
     "Workbench/Project 1/Project 1 - Issues.md",
-    "Workbench/Project 1/· Project 1 - Home.md"
+    "Workbench/Project 1/· Project 1 - Home.md",
+    "Sources/Templates/Default Issue Note.md"
   ]
 }

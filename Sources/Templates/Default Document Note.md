@@ -7,7 +7,7 @@ status:
 	[ # Description/s
 		""
 	],
-	"" # Date
+	"" # Date YYYY-MM-DD
 ]
 ---
 <%*await tp.file.rename("Document Note - " + tp.date.now("YYYY-MM-DD HH'mm''ss'''"))%>
