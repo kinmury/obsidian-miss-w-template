@@ -22,6 +22,10 @@ So I'm going to explain the purpose of every folder *individually*:
 
 Finally, there are 2 files: `Home` and`Issues`, they both serve the same purpose as the ones of any [[Workbench#^9607d0|project]].
 
+> [!warning] Important information about the CSS
+> This vault provides 2 snippets: `dvjs` and `home-page`. This snippets allows you to see certain things a certain way. 
+> This `CSS` snippets are also attached to the current theme (`Ukiyo`), but you can also use another theme, just don't forget to get the snippets provided here, otherwise some things will look broken.
+
 ## Additional Information
 
 You have finished reading all the documentation that I have provided you to understand how this vault/workflow works, but there are some stuff that either I didn't give a concise explanation or didn't even say anything.
